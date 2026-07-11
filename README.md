@@ -1,3 +1,5 @@
+![審題機器人產品介紹圖](ExamPaperReviewingRobot.png)
+
 # 審題機器人
 
 這是一個可以上傳考卷圖片、用 AI 協助審題的系統。
